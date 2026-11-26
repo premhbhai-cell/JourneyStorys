@@ -3,7 +3,7 @@
 ## Open the admin panel
 - Website: open `index.html`.
 - Admin: open `admin.html` or click the user/admin icon in the website header (before **Book Now**).
-- Email: `rahulnimbalkar665@gmail.com`
+- Email: `info@jurneystory.com`
 - Password: `divineearth5612`
 
 ## Admin sections
